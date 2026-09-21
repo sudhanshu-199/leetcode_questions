@@ -1,14 +1,18 @@
 # LeetCode Solutions
 
-> **1** problems solved
+> **2** problems solved
 
 ## Topics
 
-- [Array](#array) (1)
+- [Array](#array) (2)
 - [Counting](#counting) (1)
 - [Greedy](#greedy) (1)
 - [Hash Table](#hash-table) (1)
-- [Heap (Priority Queue)](#heap-priority-queue) (1)
+- [Heap (Priority Queue)](#heap-priority-queue) (2)
+- [Monotonic Queue](#monotonic-queue) (1)
+- [Queue](#queue) (1)
+- [Range Minimum/Maximum Query](#range-minimum-maximum-query) (1)
+- [Sliding Window](#sliding-window) (1)
 - [Sorting](#sorting) (1)
 - [All Problems](#all-problems)
 
@@ -16,6 +20,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | C++ |
 | 621 | [Task Scheduler](./621-task-scheduler/) | Medium | C++ |
 
 ## Counting
@@ -40,7 +45,32 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | C++ |
 | 621 | [Task Scheduler](./621-task-scheduler/) | Medium | C++ |
+
+## Monotonic Queue
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | C++ |
+
+## Queue
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | C++ |
+
+## Range Minimum/Maximum Query
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | C++ |
+
+## Sliding Window
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | C++ |
 
 ## Sorting
 
@@ -52,6 +82,7 @@
 
 | # | Title | Difficulty | Topics | Language |
 |---|-------|------------|--------|----------|
+| 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query | C++ |
 | 621 | [Task Scheduler](./621-task-scheduler/) | Medium | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting | C++ |
 
 ---
