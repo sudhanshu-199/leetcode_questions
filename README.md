@@ -20,7 +20,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
-| 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | C++ |
+| 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | cpp |
 | 621 | [Task Scheduler](./621-task-scheduler/) | Medium | C++ |
 
 ## Counting
@@ -45,32 +45,32 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
-| 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | C++ |
+| 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | cpp |
 | 621 | [Task Scheduler](./621-task-scheduler/) | Medium | C++ |
 
 ## Monotonic Queue
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
-| 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | C++ |
+| 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | cpp |
 
 ## Queue
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
-| 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | C++ |
+| 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | cpp |
 
 ## Range Minimum/Maximum Query
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
-| 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | C++ |
+| 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | cpp |
 
 ## Sliding Window
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
-| 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | C++ |
+| 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | cpp |
 
 ## Sorting
 
@@ -82,7 +82,7 @@
 
 | # | Title | Difficulty | Topics | Language |
 |---|-------|------------|--------|----------|
-| 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query | C++ |
+| 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query | cpp |
 | 621 | [Task Scheduler](./621-task-scheduler/) | Medium | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting | C++ |
 
 ---
