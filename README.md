@@ -1,25 +1,30 @@
 # LeetCode Solutions
 
-> **2** problems solved
+> **3** problems solved
 
 ## Topics
 
-- [Array](#array) (2)
+- [Array](#array) (3)
 - [Counting](#counting) (1)
+- [Dynamic Programming](#dynamic-programming) (1)
 - [Greedy](#greedy) (1)
 - [Hash Table](#hash-table) (1)
 - [Heap (Priority Queue)](#heap-priority-queue) (2)
 - [Monotonic Queue](#monotonic-queue) (1)
+- [Monotonic Stack](#monotonic-stack) (1)
 - [Queue](#queue) (1)
 - [Range Minimum/Maximum Query](#range-minimum-maximum-query) (1)
 - [Sliding Window](#sliding-window) (1)
 - [Sorting](#sorting) (1)
+- [Stack](#stack) (1)
+- [Two Pointers](#two-pointers) (1)
 - [All Problems](#all-problems)
 
 ## Array
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 42 | [Trapping Rain Water](./42-trapping-rain-water/) | Hard | cpp |
 | 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | cpp |
 | 621 | [Task Scheduler](./621-task-scheduler/) | Medium | C++ |
 
@@ -28,6 +33,12 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 621 | [Task Scheduler](./621-task-scheduler/) | Medium | C++ |
+
+## Dynamic Programming
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 42 | [Trapping Rain Water](./42-trapping-rain-water/) | Hard | cpp |
 
 ## Greedy
 
@@ -54,6 +65,12 @@
 |---|-------|------------|----------|
 | 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | cpp |
 
+## Monotonic Stack
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 42 | [Trapping Rain Water](./42-trapping-rain-water/) | Hard | cpp |
+
 ## Queue
 
 | # | Title | Difficulty | Language |
@@ -78,10 +95,23 @@
 |---|-------|------------|----------|
 | 621 | [Task Scheduler](./621-task-scheduler/) | Medium | C++ |
 
+## Stack
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 42 | [Trapping Rain Water](./42-trapping-rain-water/) | Hard | cpp |
+
+## Two Pointers
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 42 | [Trapping Rain Water](./42-trapping-rain-water/) | Hard | cpp |
+
 ## All Problems
 
 | # | Title | Difficulty | Topics | Language |
 |---|-------|------------|--------|----------|
+| 42 | [Trapping Rain Water](./42-trapping-rain-water/) | Hard | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack | cpp |
 | 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query | cpp |
 | 621 | [Task Scheduler](./621-task-scheduler/) | Medium | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting | C++ |
 
