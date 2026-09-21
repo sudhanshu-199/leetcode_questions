@@ -1,0 +1,11 @@
+Example 1:
+Input: tasks = ["A","A","A","B","B","B"], n = 2
+Output: 8
+
+Example 2:
+Input: tasks = ["A","C","A","B","D","B"], n = 1
+Output: 6
+
+Example 3:
+Input: tasks = ["A","A","A", "B","B","B"], n = 3
+Output: 10
