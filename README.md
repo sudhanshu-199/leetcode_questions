@@ -1,23 +1,23 @@
 # LeetCode Solutions
 
-> **5** problems solved
+> **6** problems solved
 
 ## Topics
 
-- [Array](#array) (5)
+- [Array](#array) (6)
 - [Counting](#counting) (1)
 - [Dynamic Programming](#dynamic-programming) (1)
-- [Greedy](#greedy) (1)
+- [Greedy](#greedy) (2)
 - [Hash Table](#hash-table) (2)
 - [Heap (Priority Queue)](#heap-priority-queue) (2)
 - [Monotonic Queue](#monotonic-queue) (1)
-- [Monotonic Stack](#monotonic-stack) (3)
+- [Monotonic Stack](#monotonic-stack) (4)
 - [Queue](#queue) (1)
 - [Range Minimum/Maximum Query](#range-minimum-maximum-query) (1)
 - [Sliding Window](#sliding-window) (1)
 - [Sorting](#sorting) (1)
-- [Stack](#stack) (3)
-- [Two Pointers](#two-pointers) (1)
+- [Stack](#stack) (4)
+- [Two Pointers](#two-pointers) (2)
 - [All Problems](#all-problems)
 
 ## Array
@@ -26,6 +26,7 @@
 |---|-------|------------|----------|
 | 42 | [Trapping Rain Water](./42-trapping-rain-water/) | Hard | cpp |
 | 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | cpp |
+| 321 | [Create Maximum Number](./321-create-maximum-number/) | Hard | C++ |
 | 496 | [Next Greater Element I](./496-next-greater-element-i/) | Easy | cpp |
 | 503 | [Next Greater Element II](./503-next-greater-element-ii/) | Medium | cpp |
 | 621 | [Task Scheduler](./621-task-scheduler/) | Medium | C++ |
@@ -46,6 +47,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 321 | [Create Maximum Number](./321-create-maximum-number/) | Hard | C++ |
 | 621 | [Task Scheduler](./621-task-scheduler/) | Medium | C++ |
 
 ## Hash Table
@@ -73,6 +75,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 42 | [Trapping Rain Water](./42-trapping-rain-water/) | Hard | cpp |
+| 321 | [Create Maximum Number](./321-create-maximum-number/) | Hard | C++ |
 | 496 | [Next Greater Element I](./496-next-greater-element-i/) | Easy | cpp |
 | 503 | [Next Greater Element II](./503-next-greater-element-ii/) | Medium | cpp |
 
@@ -105,6 +108,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 42 | [Trapping Rain Water](./42-trapping-rain-water/) | Hard | cpp |
+| 321 | [Create Maximum Number](./321-create-maximum-number/) | Hard | C++ |
 | 496 | [Next Greater Element I](./496-next-greater-element-i/) | Easy | cpp |
 | 503 | [Next Greater Element II](./503-next-greater-element-ii/) | Medium | cpp |
 
@@ -113,6 +117,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 42 | [Trapping Rain Water](./42-trapping-rain-water/) | Hard | cpp |
+| 321 | [Create Maximum Number](./321-create-maximum-number/) | Hard | C++ |
 
 ## All Problems
 
@@ -120,6 +125,7 @@
 |---|-------|------------|--------|----------|
 | 42 | [Trapping Rain Water](./42-trapping-rain-water/) | Hard | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack | cpp |
 | 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query | cpp |
+| 321 | [Create Maximum Number](./321-create-maximum-number/) | Hard | Array, Two Pointers, Stack, Greedy, Monotonic Stack | C++ |
 | 496 | [Next Greater Element I](./496-next-greater-element-i/) | Easy | Array, Hash Table, Stack, Monotonic Stack | cpp |
 | 503 | [Next Greater Element II](./503-next-greater-element-ii/) | Medium | Array, Stack, Monotonic Stack | cpp |
 | 621 | [Task Scheduler](./621-task-scheduler/) | Medium | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting | C++ |
