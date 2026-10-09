@@ -1,14 +1,16 @@
 # LeetCode Solutions
 
-> **7** problems solved
+> **8** problems solved
 
 ## Topics
 
 - [Array](#array) (7)
+- [Bidirectional Search](#bidirectional-search) (1)
+- [Breadth-First Search](#breadth-first-search) (1)
 - [Counting](#counting) (1)
 - [Dynamic Programming](#dynamic-programming) (1)
 - [Greedy](#greedy) (2)
-- [Hash Table](#hash-table) (2)
+- [Hash Table](#hash-table) (3)
 - [Heap (Priority Queue)](#heap-priority-queue) (3)
 - [Monotonic Queue](#monotonic-queue) (1)
 - [Monotonic Stack](#monotonic-stack) (4)
@@ -17,6 +19,7 @@
 - [Sliding Window](#sliding-window) (1)
 - [Sorting](#sorting) (2)
 - [Stack](#stack) (4)
+- [String](#string) (1)
 - [Two Pointers](#two-pointers) (2)
 - [All Problems](#all-problems)
 
@@ -31,6 +34,18 @@
 | 503 | [Next Greater Element II](./503-next-greater-element-ii/) | Medium | cpp |
 | 506 | [Relative Ranks](./506-relative-ranks/) | Easy | cpp |
 | 621 | [Task Scheduler](./621-task-scheduler/) | Medium | C++ |
+
+## Bidirectional Search
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 127 | [Word Ladder](./127-word-ladder/) | Hard | cpp |
+
+## Breadth-First Search
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 127 | [Word Ladder](./127-word-ladder/) | Hard | cpp |
 
 ## Counting
 
@@ -55,6 +70,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 127 | [Word Ladder](./127-word-ladder/) | Hard | cpp |
 | 496 | [Next Greater Element I](./496-next-greater-element-i/) | Easy | cpp |
 | 621 | [Task Scheduler](./621-task-scheduler/) | Medium | C++ |
 
@@ -115,6 +131,12 @@
 | 496 | [Next Greater Element I](./496-next-greater-element-i/) | Easy | cpp |
 | 503 | [Next Greater Element II](./503-next-greater-element-ii/) | Medium | cpp |
 
+## String
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 127 | [Word Ladder](./127-word-ladder/) | Hard | cpp |
+
 ## Two Pointers
 
 | # | Title | Difficulty | Language |
@@ -127,6 +149,7 @@
 | # | Title | Difficulty | Topics | Language |
 |---|-------|------------|--------|----------|
 | 42 | [Trapping Rain Water](./42-trapping-rain-water/) | Hard | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack | cpp |
+| 127 | [Word Ladder](./127-word-ladder/) | Hard | Hash Table, String, Breadth-First Search, Bidirectional Search | cpp |
 | 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query | C++ |
 | 321 | [Create Maximum Number](./321-create-maximum-number/) | Hard | Array, Two Pointers, Stack, Greedy, Monotonic Stack | C++ |
 | 496 | [Next Greater Element I](./496-next-greater-element-i/) | Easy | Array, Hash Table, Stack, Monotonic Stack | cpp |
