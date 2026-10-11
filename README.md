@@ -1,17 +1,17 @@
 # LeetCode Solutions
 
-> **9** problems solved
+> **10** problems solved
 
 ## Topics
 
-- [Array](#array) (7)
+- [Array](#array) (8)
 - [Bidirectional Search](#bidirectional-search) (1)
 - [Breadth-First Search](#breadth-first-search) (1)
 - [Counting](#counting) (1)
 - [Divide and Conquer](#divide-and-conquer) (1)
 - [Dynamic Programming](#dynamic-programming) (1)
 - [Greedy](#greedy) (2)
-- [Hash Table](#hash-table) (4)
+- [Hash Table](#hash-table) (5)
 - [Heap (Priority Queue)](#heap-priority-queue) (3)
 - [Monotonic Queue](#monotonic-queue) (1)
 - [Monotonic Stack](#monotonic-stack) (4)
@@ -28,6 +28,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 1 | [Two Sum](./1-two-sum/) | Easy | C++ |
 | 42 | [Trapping Rain Water](./42-trapping-rain-water/) | Hard | cpp |
 | 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Hard | C++ |
 | 321 | [Create Maximum Number](./321-create-maximum-number/) | Hard | C++ |
@@ -77,6 +78,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 1 | [Two Sum](./1-two-sum/) | Easy | C++ |
 | 127 | [Word Ladder](./127-word-ladder/) | Hard | cpp |
 | 205 | [Isomorphic Strings](./205-longest-substring-with-at-least-k-repeating-characters/) | Easy | cpp |
 | 496 | [Next Greater Element I](./496-next-greater-element-i/) | Easy | cpp |
@@ -158,6 +160,7 @@
 
 | # | Title | Difficulty | Topics | Language |
 |---|-------|------------|--------|----------|
+| 1 | [Two Sum](./1-two-sum/) | Easy | Array, Hash Table | C++ |
 | 42 | [Trapping Rain Water](./42-trapping-rain-water/) | Hard | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack | cpp |
 | 127 | [Word Ladder](./127-word-ladder/) | Hard | Hash Table, String, Breadth-First Search, Bidirectional Search | cpp |
 | 205 | [Isomorphic Strings](./205-longest-substring-with-at-least-k-repeating-characters/) | Easy | Hash Table, String, Divide and Conquer, Sliding Window | cpp |
